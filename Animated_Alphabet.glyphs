@@ -92,7 +92,7 @@ unicode = 0041;
 },
 {
 glyphname = B;
-lastChange = "2015-04-17 09:59:12 +0000";
+lastChange = "2015-04-24 19:02:34 +0000";
 layers = (
 {
 background = {
@@ -132,20 +132,6 @@ nodes = (
 layerId = "022F8F24-B123-4886-AAD4-8278871E1D45";
 name = Regular;
 paths = (
-{
-closed = 1;
-nodes = (
-"440 499 LINE",
-"492 499 OFFCURVE",
-"535 473 OFFCURVE",
-"535 429 CURVE",
-"535 380 OFFCURVE",
-"487 350 OFFCURVE",
-"435 350 CURVE",
-"348 350 LINE",
-"348 499 LINE"
-);
-},
 {
 closed = 1;
 nodes = (
